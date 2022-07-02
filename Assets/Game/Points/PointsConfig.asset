@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1b4784b20076044b35218c42985a3b, type: 3}
+  m_Name: PointsConfig
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 7428029283188672342, guid: 378018077c531c745bb6057450900550, type: 3}
+  MaxWeight: 8
+  MinWeight: -8
+  MaxHeight: 2
+  MinHeight: -4
+  MaxNumberOfPoints: 10
